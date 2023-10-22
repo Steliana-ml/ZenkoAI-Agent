@@ -1,0 +1,7 @@
+0. pip install all required packages first (mentioned in readme)
+
+1. This code need to be run under Linux or MacOS enviroment (due to jq python package)
+
+2. Start the agent by "python agent.py", and it is already a chatbot, try to replace the "loop of agent.run" to your front-end interface.
+
+3. For prompt engineering, you can modify the prompt for getting info about food or location to be more detailed to optimize the result.
